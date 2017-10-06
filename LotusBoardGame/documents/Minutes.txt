@@ -1,0 +1,13 @@
+4/11/13
+Met with the new group member
+Decided on some general ideas for the project
+Setup additional meeting times
+
+4/18/13
+Worked on some of the stage 1 bugs
+Added popup box for starting positions
+Agreed to meetup after lecture on 4/19/13
+
+4/25/13
+Added a few JUnit tests
+Decided to meet up after lecture on 4/26/13 to attempt to complete stage 2
