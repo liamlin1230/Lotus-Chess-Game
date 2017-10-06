@@ -1,9 +1,0 @@
-To start game, provide correct run arguments. 
-Arguments must consist of either finch or mouse first, followed by the names of the players.
-Needs to be at least 2 players and at most 6 players.
-
-R player starts first by clicking a button from their pile. 
-If pop box appears, click which track to go.
-
-First player to get all of their pieces of the board wins (10 pieces for 2-3 players and 6 for 4-6 players).
-A popup box will appear announcing the winner.
